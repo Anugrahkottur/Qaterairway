@@ -1,0 +1,21 @@
+
+.psgpic{
+   
+    position: relative;
+    left: 100px;
+    border-radius: 30px;
+    
+}
+.football{
+    position: relative;
+    top: -170px;
+    left: 140px;
+    color: aliceblue;
+}
+.b4{
+    background-color: rgb(204, 41, 142);
+    border-radius: 30px;
+    height: 40px;
+    font-weight: bold;
+    border: none
+}

@@ -1,0 +1,111 @@
+.container4{
+   
+    height: 1000px;
+    width: 1275px;
+    position: relative;
+    left: 97px;
+}
+
+.trip1{
+    width: 650px;
+    height: 350px;
+    border-radius: 30px;
+}
+.box3{
+    background-color: rgb(255, 255, 255);
+    width: 650px;
+    height: 410px;
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+.text1{
+  position: relative;
+  left: 20px;
+  color: brown;
+}
+.trip2{
+    width: 270px;
+    height: 350px;
+    border-radius: 30px;
+}
+.box4{
+    background-color: rgb(255, 255, 255);
+    width: 270px;
+    height: 410px;
+    border-radius: 30px;
+    position: relative;
+    left: 677px;
+    top: -410px;
+    border: 2px solid #000;
+}
+.text2{
+  position: relative;
+  left: 20px;
+  color: brown;
+}
+.trip3{
+    width: 300px;
+    height: 140px;
+    border-radius: 30px;
+}
+.box5{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    position: relative;
+    left: 974px;
+    top: -820px;
+    border: 2px solid #000;
+}
+.text3{
+  position: relative;
+  left: 20px;
+  color: brown;
+}
+.trip4{
+    width: 300px;
+    height: 140px;
+    border-radius: 30px;
+}
+.box6{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    position: relative;
+    left: 974px;
+    top: -810px;
+    border: 2px solid #000;
+}
+.text4{
+   
+    position: relative;
+    left: 20px;
+  
+    color: brown;
+}
+.text1-5{
+    position: relative;
+    left: 20px;
+    top: -100px;
+}
+.text2-5{
+    position: relative;
+    left: 20px;
+    top: -100px;
+    color: aliceblue;
+  }
+  .text3-5{
+    position: relative;
+    left: 20px;
+    top: -100px;
+    color: aliceblue;
+  }
+  .text4-5{
+    position: relative;
+    left: 20px;
+    top: -100px;
+    color: aliceblue;
+  }
+

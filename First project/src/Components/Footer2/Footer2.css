@@ -1,0 +1,138 @@
+.container5{
+   
+   height: 960px;
+   width: 1275px;
+   position: relative;
+   left: 97px;
+   top: -430px;
+   font-weight: bold;
+  
+}
+.places{
+    background-color:  rgb(205, 106, 136);
+    width:650px ;
+    height: 670px;
+    border-radius: 30px;
+    position: relative;
+    top: 40px;
+    border: 2px solid #000;
+}
+.place1{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width:650px ;
+    height: 500px;
+    
+}
+.input1{
+    border: none;
+  border-bottom: 2px solid #000000; /* Bottom border only */
+  outline: none; /* Remove the default outline */
+  font-size: 18px;
+  padding-bottom: 5px; 
+  width: 300px;
+  height: 40px;
+  left: 20px;
+  background-color: rgba(211, 209, 209, 0.619);
+  position: relative;
+}
+.buttonbox{
+    position: relative;
+    left: 400px;
+    bottom: 130px;
+}
+.placeb1{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: orange;
+}
+.placeb2{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: orange;
+}
+.placetext{
+    position: relative;
+    left: 20px;
+    bottom: 7px;
+    
+}
+.place5{
+    width: 260px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.place4{
+    
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.place3{
+    
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.place2{
+    
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.places2{
+    
+    position: relative;
+    left: 670px;
+    bottom: 788px;
+    height: 670px;
+    width: 605px;
+}
+.places3{
+    display: flex;
+    
+    justify-content: space-between;
+    height: 325px;
+}
+.places4{
+    display: flex;
+   
+    justify-content: space-between;
+    position: relative;
+    top: 20px;
+    height: 325px;
+}
+.places2-1{
+    background-color:  rgb(205, 106, 136);
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+.places2-2{
+    background-color:   rgb(205, 106, 136);
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+.places2-3{
+    background-color:  rgb(205, 106, 136);
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+.places2-4{
+    background-color:  rgb(205, 106, 136);
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+.placeb3{
+    position: relative;
+    top: 100px;
+    left: 540px;
+    width: 250px;
+    height: 70px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: rgb(152, 58, 58);
+    
+}
+.placeb3:active{
+    background-color: rgb(72, 87, 117);
+}
+

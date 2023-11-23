@@ -1,0 +1,142 @@
+.container2{
+    position: relative;
+    background-color: rgb(254, 254, 254);
+    width: 1000px;
+    height: 50vh;
+    left: 235px;
+    top: -72px;
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+.headerbox{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    top: 10px;
+    left: 50px;
+    width: 90%;
+    height: 30px;
+   font-size: 20px;
+   font-weight: bold;
+   
+}
+hr{
+    position: relative;
+    top: 10px;
+}
+.radio{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: 10px;
+    width: 40%;
+    font-size: 20px;
+   
+    
+}
+.booking1{
+    position: relative;
+    top: 20px;
+    height: 50px;
+    padding-top: 20px;
+}
+.date{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    width: 230px;
+    top: -85px;
+    left: 500px;
+    color: rgb(125, 125, 125);
+}
+.From{
+    height: 40px;
+    width: 250px;
+}
+.To{
+    height: 40px;
+    width: 250px;
+}
+.Departure{
+    height: 40px;
+}
+.Returndate{
+    height: 40px;
+}
+.passengers{
+    height: 40px; 
+    width: 227px;
+}
+.class{
+    position: relative;
+    width: 230px;
+    top: -147px;
+    left: 800px;
+    color: rgb(125, 125, 125);
+}
+.promo{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 370px;
+    left: 600px;
+    top: -40px;
+}
+.b2{
+   background-color: rgb(65, 12, 45);
+   color: aliceblue;
+   border-radius: 30px;
+   width: 200px;
+   font-size: 22px;
+}
+.li1{
+    position: relative;
+   width: 210px;
+   height: 40px;
+   top: -4px;
+   font-size: 20px;
+   font-weight: bold;
+   border: none;
+ 
+}
+.li2{
+    position: relative;
+   width: 210px;
+   height: 40px;
+   top: -4px;
+   font-size: 20px;
+   font-weight: bold;
+   border: none;
+}
+.li3{
+    position: relative;
+   width: 210px;
+   height: 40px;
+   top: -4px;
+   font-size: 20px;
+   font-weight: bold;
+   border: none;
+}
+.li4{
+    position: relative;
+   width: 210px;
+   height: 40px;
+   top: -4px;
+   font-size: 20px;
+   font-weight: bold;
+   border: none;
+}
+.li1:active{
+    background-color: rgb(105, 119, 119);
+}
+.li2:active{
+    background-color: rgb(105, 119, 119);
+}
+.li3:active{
+    background-color: rgb(105, 119, 119);
+}
+.li4:active{
+    background-color: rgb(105, 119, 119);
+}
+
+
